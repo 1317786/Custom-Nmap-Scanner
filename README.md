@@ -24,7 +24,7 @@ In this project, we will be developing a Python script designed to automate netw
 <h2>Program walk-through:</h2>
 
 <p align="center">
-When beginning you will be prompted to enter in an IP address, for this example I used my private network IP, with confirmation of it running circled in blue down below and for the rest of the other scans. After putting in the IP, you will be given three different scan options to choose from, once selected Nmap will begin the scan, resulting in an output of: <br/>
+When beginning you will be prompted to enter in an IP address, for this example I used my private network IP, with confirmation of it running circled in blue down below and for the rest of the other scans. After putting in the IP, you will be given three different scan options to choose from, once selected Nmap will begin the scan, resulting in an output of the current Nmap version, the scan method chosen with services scanning ports 1-1024, the current network status of the IP address, and lastly all open ports(if any) after protocol is used: <br/>
 <img src="syn ack scan.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="udp scan.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="comprehensive scan.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
