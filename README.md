@@ -24,14 +24,13 @@ In this project, we will be developing a Python script designed to automate netw
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Code for python script that will send out the customized email, with 2 emails of mine acting as sender and receiver of this email: <br/>
-<img src="code for emailer.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+When beginning you will be prompted to enter in an IP address, for this example I used my private network IP, with confirmation of it running circled in blue down below and for the rest of the other scans. After putting in the IP, you will be given three different scan options to choose from, once selected Nmap will begin the scan, resulting in an output of: <br/>
+<img src="syn ack scan.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="syn ack scan.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="syn ack scan.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-<p align="center">
-Successful execution of script resulting in custom email being sent out with a message and link contained in the body: <br/>
-<img src="verification of email being sent.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
 
 
 
