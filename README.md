@@ -26,7 +26,7 @@ In this project, we will be developing a Python script designed to automate netw
 <p align="center">
 When beginning you will be prompted to enter in an IP address, for this example I used my private network IP, with confirmation of it running circled in blue down below and for the rest of the other scans. After putting in the IP, you will be given three different scan options to choose from, once selected Nmap will begin the scan, resulting in an output of: <br/>
 <img src="syn ack scan.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="syn ack scan.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="udp scan.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="syn ack scan.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
