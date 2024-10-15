@@ -1,4 +1,4 @@
-<h1>Python Emailer</h1>
+<h1>Nmap Scanner</h1>
 
 
 <h2>Description</h2>
@@ -8,7 +8,7 @@ In this project, we will be developing a Python script designed to automate the 
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b>
-- <b>Nano Text Editor</b> 
+- <b>Microsoft Visual Studio</b> 
 
 <h2>Environments Used </h2>
 
